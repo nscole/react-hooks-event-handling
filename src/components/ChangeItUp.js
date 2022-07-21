@@ -21,6 +21,6 @@ function ChangeItUp() {
       </select>
     </div>
   );
-}
+} 
 
 export default ChangeItUp;
